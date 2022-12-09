@@ -4,9 +4,9 @@ Founded in 2010, Magnet Forensics is a developer of digital investigation softwa
 
 Follow Magnet Forensics:
 * www.magnetforensics.com
-* [Twitter @MagnetForensics https://twitter.com/MagnetForensics](https://twitter.com/MagnetForensics)
-* [Facebook https://www.facebook.com/MagnetForensics/](https://www.facebook.com/MagnetForensics/)
-* [Instagram https://www.instagram.com/magnet.forensics](https://www.instagram.com/magnet.forensics)
-* [LinkedIn https://www.linkedin.com/company/magnet-forensics](https://www.linkedin.com/company/magnet-forensics)
-* [YouTube https://www.youtube.com/user/magnetforensics1](https://www.youtube.com/user/magnetforensics1)
+* [Twitter](https://twitter.com/MagnetForensics)
+* [Facebook](https://www.facebook.com/MagnetForensics/)
+* [Instagram](https://www.instagram.com/magnet.forensics)
+* [LinkedIn](https://www.linkedin.com/company/magnet-forensics)
+* [YouTube](https://www.youtube.com/user/magnetforensics1)
 
